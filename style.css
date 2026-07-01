@@ -1,0 +1,10 @@
+body{margin:0;background:#fafafa;color:#111;font-family:"Source Serif 4",serif;line-height:1.8}
+.hero{text-align:center;padding:5rem 1rem 3rem}.logo{width:140px;max-width:40vw}
+h1{font-family:Inter,sans-serif;letter-spacing:.35em;font-size:3rem;margin:.8rem 0}
+.subtitle,.updated{font-family:Inter,sans-serif;color:#555}
+main{max-width:760px;margin:auto;padding:0 1.5rem 5rem}
+section{border-top:1px solid #ddd;padding:3rem 0}
+h2{font-family:Inter,sans-serif;font-size:1rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:1.5rem}
+.content{font-size:1.18rem}
+footer{border-top:1px solid #ddd;text-align:center;padding:2rem;color:#666;font-family:Inter,sans-serif}
+@media(max-width:700px){h1{font-size:2rem;letter-spacing:.2em}.content{font-size:1.05rem}}
