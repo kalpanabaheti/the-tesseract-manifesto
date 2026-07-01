@@ -1,5 +1,12 @@
 body{margin:0;background:#fafafa;color:#111;font-family:"Source Serif 4",serif;line-height:1.8}
-.hero{text-align:center;padding:5rem 1rem 3rem}.logo{width:140px;max-width:40vw}
+.hero{text-align:center;padding:5rem 1rem 3rem}
+.logo {
+    width: 320px;
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 h1{font-family:Inter,sans-serif;letter-spacing:.35em;font-size:3rem;margin:.8rem 0}
 .subtitle,.updated{font-family:Inter,sans-serif;color:#555}
 main{max-width:760px;margin:auto;padding:0 1.5rem 5rem}
