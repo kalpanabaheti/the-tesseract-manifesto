@@ -13,6 +13,13 @@ main{max-width:760px;margin:auto;padding:0 1.5rem 5rem}
 section{border-top:1px solid #ddd;padding:3rem 0}
 h2{font-family:Inter,sans-serif;font-size:1rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:1.5rem}
 .content{font-size:1.18rem}
+.content p {
+    margin-bottom: 1.2em;
+    line-height: 1.8;
+}
+.content p:last-child {
+    margin-bottom: 0;
+}
 footer {
     border-top: 1px solid #ddd;
     text-align: center;
