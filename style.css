@@ -7,7 +7,12 @@ body{margin:0;background:#ffffff;color:#111;font-family:"Source Serif 4",serif;l
     display: block;
     margin: 0 auto 3rem;
 }
-h1{font-family:Inter,sans-serif;letter-spacing:.35em;font-size:3rem;margin:.8rem 0}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    letter-spacing: .05em;
+    font-size: 3rem;
+    margin: .8rem 0;
+}
 .subtitle,.updated{font-family:Inter,sans-serif;color:#555}
 main{max-width:760px;margin:auto;padding:0 1.5rem 5rem}
 section{border-top:1px solid #ddd;padding:3rem 0}
